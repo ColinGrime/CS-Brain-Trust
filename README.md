@@ -2,6 +2,7 @@
 Instead of you guys being forced to go through a bunch of links, here is a gist of everything you need to know.
 
 ## General Stuff:
+- Seed: **-5550122220331967276**
 - Difficulty: **Hard**
 - Max render distance: **24**
 - Whitelisted: **Scill**, **EGG_R0LL**, **Reesedaman**, **AeroZombie03**, **Decrypted_**
