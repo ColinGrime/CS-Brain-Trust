@@ -67,7 +67,7 @@ Doing so will increase your stats and allow you to unlock abilities / mana abili
 
 ## [McMMO Horses](https://www.spigotmc.org/resources/mcmmohorses.46301/)
 
-This plugins adds new abilities to horses.  
+This plugin adds new abilities to horses.  
 You can claim, name, summon, and level up abilities for your horse.
 
 <details><summary>Skills</summary><p>
