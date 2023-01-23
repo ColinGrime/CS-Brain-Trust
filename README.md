@@ -3,6 +3,7 @@ Instead of you guys being forced to go through a bunch of links, here is a gist 
 
 ## General Stuff:
 - IP: **csbraintrust.com**
+- Version: 1.19.3
 - Seed: **-5550122220331967276**
 - Difficulty: **Hard**
 - Max render distance: **24**
