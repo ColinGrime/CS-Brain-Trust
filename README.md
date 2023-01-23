@@ -128,7 +128,7 @@ Conversion rate: **9 XP** = **1 XP bottle** (little worse than what the XP bottl
 ## [Mineable Spawners](https://www.spigotmc.org/resources/mineablespawners-1-8-1-18-silkspawners-alternative.59921/)
 
 This plugin allows you to mine and pickup spawners.  
-To do so, all you need is a **diamond silk touch pickaxe**.
+To do so, all you need is a **netherite silk touch pickaxe**.
 
 Chance to drop: **20%**
 
