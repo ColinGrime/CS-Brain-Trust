@@ -6,7 +6,7 @@ Instead of you guys being forced to go through a bunch of links, here is a gist 
 - Seed: **-5550122220331967276**
 - Difficulty: **Hard**
 - Max render distance: **24**
-- Whitelisted: **Scill**, **EGG_R0LL**, **Reesedaman**, **AeroZombie03**, **Decrypted_**, **Nikky23**, **DismalLake**, **Remxb4**
+- Whitelisted: **Scill**, **EGG_R0LL**, **Reesedaman**, **AeroZombie03**, **Decrypted_**, **Nikky23**, **DismalLake**, **Remxb4**, **AmzCuriousPanda**
 - Gamerules:
   - **doInsomnia**: false (phantoms will not spawn)
   - **playersSleepingPercentage**: 0 (only 1 player is required to sleep)
