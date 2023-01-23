@@ -109,6 +109,7 @@ This plugin adds numerous quality of life changes.
 - Water bucket + infinity book = **infinite water bucket**.
 - You can **color code** items with anvils.
 - You can **dye the name of named mobs**.
+- Withers health is **doubled**.
 - Withers spawn **skeleton minions** when it reaches half health.
 - Prevents any non-player entity from **trampling farmland**.
 - Wandering traders aren't **completely useless**.
