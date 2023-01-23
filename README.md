@@ -62,3 +62,76 @@ Doing so will increase your stats and allow you to unlock abilities / mana abili
 - **Lightning Blade**: Increases attack speed by _% for _ seconds. Right click sword and attack mob to activate.
 
 </p></details>
+
+## [Levelled Mobs](https://www.spigotmc.org/resources/levelledmobs.74304/)
+
+This plugin applies a level to each mob (I don't think it effects mobs spawned with spawners).
+It will be on **average** difficulty in the beginning, but we can change this later if we get too strong.
+
+## [McMMO Horses](https://www.spigotmc.org/resources/mcmmohorses.46301/)
+
+This plugins adds new abilities to horses.  
+You can claim, name, summon, and level up abilities for your horse.
+
+<details><summary>Skills</summary><p>
+
+- **Swiftness**: Increases the speed of your horse
+- **Agility**: Increases the change of dodging attacks
+- **Vitality**: Increases the health of your horse
+- **Wrath**: Temporarily disables damage and increases speed
+
+</p></details>
+
+<details><summary>Getting Started</summary><p>
+
+- To get started, claim a horse by taming it and giving it a saddle. Then, while riding it, use **/h claim**.
+- To level up your horse stats, ride for long distances for a Swiftness increase. To increase it's health, wrath, or agility, let your horse take damage.
+- To heal your horse, give them sugar, apples, carrots, golden apples, or golden carrots.
+- To view your horses stats, use **/h stats**.
+- To protect your horse from damage when you are not riding it, use **/h protect**.
+- When you disconnect from the server, your horse will despawn to protect it. When you join the server again, use **/h summon** to summon your horse again.
+- If you wish to rename your horse, use **/h set name [name]**.
+
+</p></details>
+
+## [Mine Tweaks](https://www.spigotmc.org/resources/minetweaks.96757/)
+
+This plugin adds numerous quality of life changes.
+
+<details><summary>Notable Additions (you can read more about it if you want)</summary><p>
+
+- Most crops can be **grown with bonemeal** (cactus, sugarcane, netherwart).
+- You can **harvest crops by right clicking them**, reverting them back to stage 1.
+- **Trowel tool**: Places a random block from your hotbar (so you can put like all cobblestone if you need to use a lot of it).
+- **Middle click** a crafting table in your inventory to **open it**. You no longer have to place 1 million crafting tables (*ahem* Reese).
+- Water bucket + infinity book = **infinite water bucket**.
+- You can **color code** items with anvils.
+- You can **dye the name of named mobs**.
+- Withers spawn **skeleton minions** when it reaches half health.
+- Prevents any non-player entity from **trampling farmland**.
+- Wandering traders aren't **completely useless**.
+- **Announces the location** of wandering trader spawns to all players.
+- And more (check out the page about if you're interested).
+  
+</p></details>
+
+## [Xp Bottler](https://www.spigotmc.org/resources/xp-bottler-1-15-2-1-19-3.75989/)
+
+This plugins allows you to convert your XP into regular XP bottles.  
+To do so, all you have to do is right click an **emerald block** with an **empty bottle**.  
+
+Conversion rate: **9 XP** = **1 XP bottle** (little worse than what the XP bottle should give you).
+
+## [Mineable Spawners](https://www.spigotmc.org/resources/mineablespawners-1-8-1-18-silkspawners-alternative.59921/)
+
+This plugins allows you to mine and pickup spawners.  
+To do so, all you need is a **silk touch pickaxe**.
+
+## [Dynmap](https://www.spigotmc.org/resources/dynmap%C2%AE.274/)
+
+This plugins allows you to view the world in a 'Google Maps' style.  
+Link: **http://csbraintrust.com:8123/**
+
+---
+
+### Don't like something? Want to add something? DM me.
