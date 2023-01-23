@@ -143,6 +143,15 @@ You cannot be moved / hurt by mobs while AFK, but players can still hurt you.
 This plugin allows you to view the world in a 'Google Maps' style.  
 Link: **http://csbraintrust.com:8123/**
 
+## [Simple Elevators](https://www.spigotmc.org/resources/simple-elevators-1-8-1-19.44462/)
+
+This plugin allows you to make elevators.  
+Simply place a netherite block above a diamond block -- this will add a floor to your elevator.
+
+## [Better Chairs](https://www.spigotmc.org/resources/betterchairs-remastered.84809/)
+
+This plugin allows you to sit on chairs. That's all.
+
 ---
 
 ### Don't like something? Want to add something? DM me.
