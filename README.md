@@ -153,6 +153,11 @@ Simply place a netherite block above a diamond block -- this will add a floor to
 
 This plugin allows you to sit on chairs. That's all.
 
+## [Proximity Voice Chat](https://www.spigotmc.org/resources/skoice-proximity-voice-chat.82861/)
+
+This plugin enables proximity voice chat to the server.  
+To link your Discord account with your Minecraft account, type **/link** in Discord and follow the instructions provided.
+
 ---
 
 ### Don't like something? Want to add something? DM me.
