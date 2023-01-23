@@ -117,7 +117,7 @@ This plugin adds numerous quality of life changes.
   
 </p></details>
 
-## [Xp Bottler](https://www.spigotmc.org/resources/xp-bottler-1-15-2-1-19-3.75989/)
+## [XP Bottler](https://www.spigotmc.org/resources/xp-bottler-1-15-2-1-19-3.75989/)
 
 This plugin allows you to convert your XP into regular XP bottles.  
 To do so, all you have to do is right click an **emerald block** with an **empty bottle**.  
