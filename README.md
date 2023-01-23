@@ -63,11 +63,6 @@ Doing so will increase your stats and allow you to unlock abilities / mana abili
 
 </p></details>
 
-## [Levelled Mobs](https://www.spigotmc.org/resources/levelledmobs.74304/)
-
-This plugin applies a level to each mob (I don't think it effects mobs spawned with spawners).
-It will be on **average** difficulty in the beginning, but we can change this later if we get too strong.
-
 ## [McMMO Horses](https://www.spigotmc.org/resources/mcmmohorses.46301/)
 
 This plugins adds new abilities to horses.  
@@ -93,6 +88,11 @@ You can claim, name, summon, and level up abilities for your horse.
 - If you wish to rename your horse, use **/h set name [name]**.
 
 </p></details>
+
+## [Levelled Mobs](https://www.spigotmc.org/resources/levelledmobs.74304/)
+
+This plugin applies a level to each mob *(I don't think it effects mobs spawned with spawners)*.  
+It will be on **average** difficulty in the beginning, but we can change this later if we get too strong.
 
 ## [Mine Tweaks](https://www.spigotmc.org/resources/minetweaks.96757/)
 
@@ -120,12 +120,14 @@ This plugin adds numerous quality of life changes.
 This plugins allows you to convert your XP into regular XP bottles.  
 To do so, all you have to do is right click an **emerald block** with an **empty bottle**.  
 
-Conversion rate: **9 XP** = **1 XP bottle** (little worse than what the XP bottle should give you).
+Conversion rate: **9 XP** = **1 XP bottle** (little worse than what the XP bottle should give you)
 
 ## [Mineable Spawners](https://www.spigotmc.org/resources/mineablespawners-1-8-1-18-silkspawners-alternative.59921/)
 
 This plugins allows you to mine and pickup spawners.  
 To do so, all you need is a **silk touch pickaxe**.
+
+Chance to drop: **20%**
 
 ## [Dynmap](https://www.spigotmc.org/resources/dynmap%C2%AE.274/)
 
