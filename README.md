@@ -2,6 +2,7 @@
 Instead of you guys being forced to go through a bunch of links, here is a gist of everything you need to know.
 
 ## General Stuff:
+- IP: **csbraintrust.com**
 - Seed: **-5550122220331967276**
 - Difficulty: **Hard**
 - Max render distance: **24**
@@ -93,7 +94,7 @@ You can claim, name, summon, and level up abilities for your horse.
 ## [Levelled Mobs](https://www.spigotmc.org/resources/levelledmobs.74304/)
 
 This plugin applies a level to each mob *(I don't think it effects mobs spawned with spawners)*.  
-It will be on **average** difficulty in the beginning, but we can change this later if we get too strong.
+It will be on **average** difficulty in the beginning, but we can change this later on if we get too strong.
 
 ## [Mine Tweaks](https://www.spigotmc.org/resources/minetweaks.96757/)
 
