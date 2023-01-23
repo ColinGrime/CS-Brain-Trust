@@ -119,21 +119,28 @@ This plugin adds numerous quality of life changes.
 
 ## [Xp Bottler](https://www.spigotmc.org/resources/xp-bottler-1-15-2-1-19-3.75989/)
 
-This plugins allows you to convert your XP into regular XP bottles.  
+This plugin allows you to convert your XP into regular XP bottles.  
 To do so, all you have to do is right click an **emerald block** with an **empty bottle**.  
 
 Conversion rate: **9 XP** = **1 XP bottle** (little worse than what the XP bottle should give you)
 
 ## [Mineable Spawners](https://www.spigotmc.org/resources/mineablespawners-1-8-1-18-silkspawners-alternative.59921/)
 
-This plugins allows you to mine and pickup spawners.  
+This plugin allows you to mine and pickup spawners.  
 To do so, all you need is a **diamond silk touch pickaxe**.
 
 Chance to drop: **20%**
 
+## [AFK+](https://www.spigotmc.org/resources/afk.35065/)
+
+This plugin allows you to become AFK.  
+While AFK, it will indicate it in the tab and your nametag.  
+
+You cannot be moved / hurt by mobs while AFK, but players can still hurt you.
+
 ## [Dynmap](https://www.spigotmc.org/resources/dynmap%C2%AE.274/)
 
-This plugins allows you to view the world in a 'Google Maps' style.  
+This plugin allows you to view the world in a 'Google Maps' style.  
 Link: **http://csbraintrust.com:8123/**
 
 ---
