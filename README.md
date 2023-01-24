@@ -106,7 +106,7 @@ This plugin adds numerous quality of life changes.
 - Most crops can be **grown with bonemeal** (cactus, sugarcane, netherwart).
 - You can **harvest crops by right clicking them**, reverting them back to stage 1.
 - **Trowel tool**: Places a random block from your hotbar (so you can put like all cobblestone if you need to use a lot of it).
-- **Middle click** a crafting table in your inventory to **open it**. You no longer have to place 1 million crafting tables (*ahem* Reese).
+- Click the **swap key** on a crafting table in your inventory to **open it**. You no longer have to place 1 million crafting tables (*ahem* Reese).
 - Water bucket + infinity book = **infinite water bucket**.
 - You can **color code** items with anvils.
 - You can **dye the name of named mobs**.
@@ -153,11 +153,6 @@ Simply place a netherite block above a diamond block -- this will add a floor to
 ## [Better Chairs](https://www.spigotmc.org/resources/betterchairs-remastered.84809/)
 
 This plugin allows you to sit on chairs. That's all.
-
-## [Proximity Voice Chat](https://www.spigotmc.org/resources/skoice-proximity-voice-chat.82861/)
-
-This plugin enables proximity voice chat to the server.  
-To link your Discord account with your Minecraft account, type **/link** in Discord and follow the instructions provided.
 
 ---
 
